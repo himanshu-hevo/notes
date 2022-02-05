@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-05T14:33:46.770Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="QqS9-I8eZ9lh9BhpJgcz" version="16.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-05T15:00:16.539Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="JnOwa47KgB3YG0WlrUYS" version="16.5.3" type="github">
   <diagram id="LYB9x2LhMzJ_m4hAoZJ_" name="Page-1">
-    <mxGraphModel dx="899" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1139" dy="1789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,33 @@
         </mxCell>
         <mxCell id="XpGsC2M0asoflnFfjqxH-42" value="&lt;b&gt;SALESFORCE&lt;br&gt;Processing and send response&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="660" y="-640" width="290" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-49" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;size=0.19791666666666666;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1040" width="960" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-50" value="T01 vantage point" style="verticalLabelPosition=top;html=1;shadow=0;dashed=0;verticalAlign=bottom;strokeWidth=1;shape=mxgraph.ios.iPin;fillColor2=#ccccff;fillColor3=#0000ff;strokeColor=#000066;" vertex="1" parent="1">
+          <mxGeometry x="640" y="980" width="20" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-51" value="Historical Data loaded in reverse direction" style="shape=mxgraph.uml25.inputPin;html=1;points=[[0,0.5],[1,0.5]];labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="1">
+          <mxGeometry x="430" y="995" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-52" value="Incremental Data loaded in forward direction" style="shape=mxgraph.uml25.inputPin;html=1;points=[[0,0.5],[1,0.5]];labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="900" y="995" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-53" value="T &lt;br&gt;[- infinity]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-54" value="T &lt;br&gt;[+ infinity]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="1040" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-55" value="T01 - hDur" style="verticalLabelPosition=bottom;html=1;shadow=0;dashed=0;verticalAlign=top;strokeWidth=1;shape=mxgraph.ios.iPin;fillColor2=#00dd00;fillColor3=#004400;strokeColor=#006600;rotation=0;direction=west;labelPosition=center;align=center;" vertex="1" parent="1">
+          <mxGeometry x="400.97999999999996" y="1070" width="19.02" height="39.61" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=1.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="XpGsC2M0asoflnFfjqxH-56" target="XpGsC2M0asoflnFfjqxH-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XpGsC2M0asoflnFfjqxH-56" value="This the time of starting or restarting the pipeline. Not fixed to only pipeline creation time" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1130" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
