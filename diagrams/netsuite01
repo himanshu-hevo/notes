@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-07-06T04:22:49.441Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" version="18.1.1" etag="PsDfKAy2cfxwhO4QHOzu" type="github"><diagram id="uOqP0qR__c9piCUPxuCw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-06T04:31:17.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36" etag="73u7CqNuSpGaA8u63qbM" version="18.1.1" type="github">
+  <diagram id="uOqP0qR__c9piCUPxuCw" name="Page-1">
+    <mxGraphModel dx="898" dy="593" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" width="740" height="660" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-1" value="&lt;pre style=&quot;box-sizing: inherit; margin-top: 4px; margin-bottom: 4px; padding: 8px; --saf-0:rgba(var(--sk_foreground_low,29,28,29),0.13); line-height: 1.50001; font-variant-ligatures: none; overflow-wrap: break-word; word-break: normal; tab-size: 4; border: 1px solid var(--saf-0); border-radius: 4px; background: rgba(var(--sk_foreground_min,29,28,29),0.04); counter-reset: list-0 0 list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(29, 28, 29); text-align: left; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace !important;&quot; data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Account ID&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="70" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-3" value="&lt;pre style=&quot;box-sizing: inherit; margin-top: 4px; margin-bottom: 4px; padding: 8px; --saf-0:rgba(var(--sk_foreground_low,29,28,29),0.13); line-height: 1.50001; font-variant-ligatures: none; overflow-wrap: break-word; word-break: normal; tab-size: 4; border: 1px solid var(--saf-0); border-radius: 4px; background: rgba(var(--sk_foreground_min,29,28,29),0.04); counter-reset: list-0 0 list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(29, 28, 29); text-align: left; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace !important;&quot; data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Token Secret&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="390" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-4" value="&lt;pre style=&quot;box-sizing: inherit; margin-top: 4px; margin-bottom: 4px; padding: 8px; --saf-0:rgba(var(--sk_foreground_low,29,28,29),0.13); line-height: 1.50001; font-variant-ligatures: none; overflow-wrap: break-word; word-break: normal; tab-size: 4; border: 1px solid var(--saf-0); border-radius: 4px; background: rgba(var(--sk_foreground_min,29,28,29),0.04); counter-reset: list-0 0 list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(29, 28, 29); text-align: left; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace !important;&quot; data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Consumer Secret&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="230" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-5" value="&lt;pre style=&quot;box-sizing: inherit; margin-top: 4px; margin-bottom: 4px; padding: 8px; --saf-0:rgba(var(--sk_foreground_low,29,28,29),0.13); line-height: 1.50001; font-variant-ligatures: none; overflow-wrap: break-word; word-break: normal; tab-size: 4; border: 1px solid var(--saf-0); border-radius: 4px; background: rgba(var(--sk_foreground_min,29,28,29),0.04); counter-reset: list-0 0 list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(29, 28, 29); text-align: left; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace !important;&quot; data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Consumer Key&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="150" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-6" value="&lt;pre style=&quot;box-sizing: inherit; margin-top: 4px; margin-bottom: 4px; padding: 8px; --saf-0:rgba(var(--sk_foreground_low,29,28,29),0.13); line-height: 1.50001; font-variant-ligatures: none; overflow-wrap: break-word; word-break: normal; tab-size: 4; border: 1px solid var(--saf-0); border-radius: 4px; background: rgba(var(--sk_foreground_min,29,28,29),0.04); counter-reset: list-0 0 list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(29, 28, 29); text-align: left; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace !important;&quot; data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Token ID&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="310" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-7" value="Documentation here" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="75" width="120" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-8" value="&lt;pre style=&quot;box-sizing: inherit; margin-top: 4px; margin-bottom: 4px; padding: 8px; --saf-0:rgba(var(--sk_foreground_low,29,28,29),0.13); line-height: 1.50001; font-variant-ligatures: none; overflow-wrap: break-word; word-break: normal; tab-size: 4; border: 1px solid var(--saf-0); border-radius: 4px; background: rgba(var(--sk_foreground_min,29,28,29),0.04); counter-reset: list-0 0 list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; color: rgb(29, 28, 29); text-align: left; font-family: Monaco, Menlo, Consolas, &amp;quot;Courier New&amp;quot;, monospace !important;&quot; data-stringify-type=&quot;pre&quot; class=&quot;c-mrkdwn__pre&quot;&gt;Web Service URL&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="470" width="270" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-9" value="&lt;span style=&quot;color: rgb(55, 64, 83); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 20px; font-weight: 700; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Configure your Netsuite Source&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-10" value="TEST CONNECTION" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="279" y="610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-11" value="TEST &amp;amp; CONNECT" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="610" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-12" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/metroicons/black/i.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="70" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-13" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/metroicons/black/i.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="150" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-14" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/metroicons/black/i.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/metroicons/black/i.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="310" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-16" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/metroicons/black/i.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="390" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p2VDji9JVDa4jMXU7ihE-17" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/metroicons/black/i.png" vertex="1" parent="1">
+          <mxGeometry x="550" y="470" width="20" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
